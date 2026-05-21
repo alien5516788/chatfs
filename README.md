@@ -51,7 +51,7 @@ This leverages the modern **Web Browsing** feature available in almost every maj
 
 It has two parts:
 
-### 🌐 Cloud proxy ([ChatFS Gateway](https://github.com/deexor64/chatfs-server))
+### 🌐 Cloud proxy ([ChatFS Gateway](https://github.com/alien5516788/chatfs-server))
 
 * hosted somewhere public
 * acts like a simple router
@@ -193,8 +193,6 @@ I’m not responsible for anything that happens from misuse, accidental deletes,
 Basically — don’t connect it to anything important without understanding what it can do.
 
 Operations like `list` and `content` are safe to try and most useful.
-
-🔐 Privacy note
 
 For better privacy, it’s recommended to self-host the server part instead of using a public one.
 
