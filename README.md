@@ -1,4 +1,4 @@
-# **ChatFS: The Bridge That Lets Web AI Code Like a Local Pro**
+# **ChatFS: The Bridge That Unlocks the Hidden Talent of Your Favourite AI**
 
 ## 1. Use case
 
